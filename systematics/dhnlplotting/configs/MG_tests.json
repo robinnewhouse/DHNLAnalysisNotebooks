@@ -1,0 +1,45 @@
+{
+   
+    "scaleLumi" : 140.0,
+    "mcFiles":[ 
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/Pythia8_uue_10G_10mm_10k/histograms_mc16e_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/Pythia8_uue_10G_100mm_10k/histograms_mc16e_10G_100mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/Pythia8_uue_10G_1mm_10k/histograms_mc16e_10G_1mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/MG_uue_10G_10mm_5k_LNC/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/MG_uue_10G_10mm_5k_LNV/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/truthOnly/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm_thres3.3e-8/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm_JLruncard2/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm_removelhe_version/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_1mm/histograms_mc_10G_1mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_100mm/histograms_mc_10G_100mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/changed_decay_width/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/TRUTH1_10G_10mm_nJetMax0/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/truth_10mm_test/histograms_mc_10G_10mm_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/truth_10mm_test_python/histograms_mc16e_uue.root",
+                "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/truth_monika/histograms_mc_uue.root"
+              ],
+    "mcLabels":[     "(Pythia8 10mm)", 
+                     "\\mu\\mue (Pythia8 100mm)", 
+                     "\\mu\\mue (Pythia8 1mm)", 
+                     "LNC \\mu\\mue (MG)", 
+                     "LNV \\mu\\mue (MG)" ,
+                     "LNC \\mu\\mue (MG truth ONLY)",
+                     "LNC \\mu\\mue (MG no threshold)",
+                     "LNC \\mu\\mue (MG threshold=3.3e-8)",
+                     "LNC \\mu\\mue (MG JL runcard2)",
+                     "LNC \\mu\\mue (MG remove lhe ver)",
+                     "LNC \\mu\\mue (MG 1mm)",
+                     "LNC (MG 10mm)",
+                     "LNC \\mu\\mue (MG 100mm)",
+                     "LNC \\mu\\mue (MG Monika's JO)",
+                     "MG nJetMax = 0 (10mm)"
+
+                     
+   
+             ]
+
+}
+

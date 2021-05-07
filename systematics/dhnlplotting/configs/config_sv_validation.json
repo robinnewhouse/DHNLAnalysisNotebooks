@@ -1,0 +1,21 @@
+{
+   
+    "dataFile": "/data/hnl/data18_ntuples/output/batch/oct7_2018_allYear_uuu_rerunVSI_v04data_VSILepModonly_newHistTest/histograms/histograms_SSdata_uuu.root",
+    "dataLabel": "SS bkg 2018 ( \\mu\\mu\\mu" ,
+    "dataLumi":  22.46,
+    "scaleLumi": 140.0,
+    "mcFiles":[
+        "/home/dtrischuk/HNLAnalysis/VSI_studies/svvalidation_ntuples/TruthMatchingPlots_1mm_VSILepMod.root",  
+        "/home/dtrischuk/HNLAnalysis/VSI_studies/svvalidation_ntuples/TruthMatchingPlots_1mm_VSILep.root",
+        "/home/dtrischuk/HNLAnalysis/VSI_studies/svvalidation_ntuples/TruthMatchingPlots_1mm_VSI.root",
+        "/home/dtrischuk/HNLAnalysis/VSI_studies/svvalidation_ntuples/TruthMatchingPlots_1mm_VSIMod.root"
+
+             ],
+    "mcLabels":[      
+                "VSILep Mod",
+                "VSI Lep",
+                "VSI",
+                "VSI Mod"
+             ]
+
+}

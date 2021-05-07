@@ -1,0 +1,16 @@
+{
+   
+            "dataFile": "/data/hnl/data18_ntuples/toyAnalysis_data18_uuu/histograms_data_uuu.root",
+            "dataLabel":"data 2018 ( \\mu\\mu\\mu, " ,
+            
+            "mcFile":["../output/histograms_mc16e_10G_10mm_ueu.root",
+            	    "../output/histograms____ueu.root"
+                      ],
+            "mcLabel":["memmode = 23 ",
+            		"memode = 22 " 
+            	     ]
+
+
+
+}
+

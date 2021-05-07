@@ -1,0 +1,14 @@
+{
+   
+            "dataFile": "/data/hnl/data18_ntuples/data18_periodB_uuu/histograms_data_uuu.root",
+            "dataLabel":"data 2018 period B" ,
+            
+            "mcFile":["../output/histograms_mc16e_5G_10mm_uuu.root",
+            	      "../output/histograms_mc16e_10G_10mm_uuu.root",
+            	      "../output/histograms_mc16e_20G_10mm_uuu.root"],
+            "mcLabel":["(m_{HNL}, c\\tau, chan.) = (5, 10, \\mu\\mu\\mu)", 
+            		   "(m_{HNL}, c\\tau, chan.) = (10, 10, \\mu\\mu\\mu)", 
+            		   "(m_{HNL}, c\\tau, chan.) = (20, 10, \\mu\\mu\\mu)" ]
+
+
+}

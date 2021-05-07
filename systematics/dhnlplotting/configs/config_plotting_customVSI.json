@@ -1,0 +1,24 @@
+{
+   
+            "dataFile_0p0": "/data/hnl/data18_ntuples/output/batch/aug26_2018_allYear_uuu_rerunVSI_comboTest_0p0_withMultitrk_v4/histograms/histograms_SSdata_uuu.root",
+            "dataFile": "/data/hnl/data18_ntuples/output/batch/aug6_2018_allYear_uuu_rerunVSI_comboTest_1p0_wLeptonsMod_morestats_v1/histograms/histograms_SSdata_uuu.root",
+            "dataLabel": " SS bkg 2018 ( \\mu\\mu\\mu" ,
+            "dataLumi_20fb": 19.47,
+            "dataLumi_30.09": 30.09,
+            "dataLumi":  34.39,
+            "dataLumi_60": 60.0,
+            "scaleLumi": 140.0,
+            "mcFiles_0p0":[ "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/rerunVSI_comboLRTTest_0p0ONLY_v4/histograms_mc16e_10G_10mm_uuu.root"
+            	      ],
+            "mcFiles":[ "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/VSILepMod_5G_10mm/histograms_mc16e_5G_10mm_uuu.root",
+                                  "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/VSILepMod_10G_10mm/histograms_mc16e_10G_10mm_uuu.root",
+                                  "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/VSILepMod_20G_10mm/histograms_mc16e_20G_10mm_uuu.root"
+            	      ],
+            "mcLabels":[     "(    5,    10,  \\mu\\mu\\mu",   
+                            "(    10,    10,  \\mu\\mu\\mu",
+                            "(     20,    10,  \\mu\\mu\\mu"
+                            
+            	     ]
+
+}
+

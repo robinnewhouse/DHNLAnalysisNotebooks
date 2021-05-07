@@ -1,0 +1,16 @@
+{
+            "scaleLumi": 140.0,
+   
+ 
+             "mcFiles":[ "../output/histograms_mc16e_10G_10mm_ueu.root",
+                         "../python/LRTrun3/histograms_mc16e_10G_10mm_ueu.root",
+                         "../python/noFilter_LRTrun3/histograms_mc16e_10G_10mm_ueu.root"
+                      ],
+            "mcLabels":[
+                           "( Run 2 standard LRT with filter,  10,    10,  \\mue\\mu",
+                           "( Run 3 new LRT      with filter,  10,    10,  \\mue\\mu",
+                           "( Run 3 new LRT      no   filter,  10,    10,  \\mue\\mu"
+                        ]
+
+
+}

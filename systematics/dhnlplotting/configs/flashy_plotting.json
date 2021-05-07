@@ -1,0 +1,30 @@
+{
+   
+<<<<<<< HEAD
+    "old_dataFile": "/data/hnl/data18_ntuples/output/batch/may29_2018_allYear_uuu_newHistfolders/histograms/histograms_data_uuu.root",
+    "dataFile_uuu": "/data/hnl/data18_ntuples/output/batch/june16_2018_allYear_uuu_updateHistFolders/histograms/histograms_data_uuu.root",
+    "dataFile": "/data/hnl/data18_ntuples/output/batch/june16_2018_allYear_ueu_chargeStudy/histograms/histograms_data_ueu.root",
+    "dataLabel":"data 2018 ( \\mu\\mu\\mu" ,
+    "scaleLumi": 60,
+    
+    "mcFiles":[ "../output/histograms_mc16e_10G_10mm_uuu.root"
+    	      
+    	      ],
+
+    "mcLabels":[ "(10,    10,  \\mu\\mu\\mu"
+
+    			]
+=======
+            "dataFile": "/data/hnl/data18_ntuples/data18_periodB/histograms_data_uuu.root",
+            "dataLabel":"data 2018 period B" ,
+            
+            "mcFile":["../output/histograms_mc_10G_1mm_uuu.root",
+            	      "../output/histograms_mc_10G_10mm_uuu.root",
+            	      "../output/histograms_mc_10G_100mm_uuu.root"],
+            "mcLabel":["(m_{HNL}, c\\tau, chan.) = (10, 1, \\mu\\mu\\mu)", 
+            		   "(m_{HNL}, c\\tau, chan.) = (10, 10, \\mu\\mu\\mu)", 
+            		   "(m_{HNL}, c\\tau, chan.) = (10, 100, \\mu\\mu\\mu)" ]
+
+>>>>>>> 0ff170c09c658bf537d58ba778830564e3ec1fa2
+
+}

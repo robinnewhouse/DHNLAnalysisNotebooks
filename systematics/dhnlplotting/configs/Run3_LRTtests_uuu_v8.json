@@ -1,0 +1,16 @@
+{
+            "scaleLumi": 140.0,
+            "dataLumi" : 1.0,
+            
+          "mcFiles":[ "../python/run2_LRT_uuu/histograms_mc16e_10G_10mm_uuu.root",
+                     "../python/run3_LRT_uuu_v8/histograms_mc16e_10G_10mm_uuu.root",
+                     "../python/run3_LRT_uuu_v8_nofilter/histograms_mc16e_10G_10mm_uuu.root"
+                  ],
+            "mcLabels":[
+            		         "Run 2 LRT    with filter",
+                           "Run 3 LRT v8 with filter",
+                           "Run 3 LRT v8   NO filter"
+                        ]
+
+
+}

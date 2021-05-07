@@ -1,0 +1,10 @@
+{
+            "dataFile_v02": "/data/hnl/data18_ntuples/output/batch/aug6_2018_allYear_uuu_rerunVSI_comboTest_1p0_wLeptonsMod_morestats_v1/histograms/histograms_SSdata_uuu.root",
+            "dataLabel_v02": " SS bkg 2018 v02 ( \\mu\\mu\\mu" ,
+            "dataFile_v04": "/data/hnl/data18_ntuples/output/batch/sept21_2018_allYear_uuu_rerunVSI_v04data_customVSI_v1/histograms/histograms_SSdata_uuu.root",
+            "dataLabel_v04": " SS bkg 2018 v04 ( \\mu\\mu\\mu" ,
+            "dataLumi_v02":  34.39,
+            "dataLumi_v04": 55.36,
+            "scaleLumi": 140.0
+}
+

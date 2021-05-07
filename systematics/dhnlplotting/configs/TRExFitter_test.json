@@ -1,0 +1,26 @@
+{
+            "dataFile": "/data/hnl/data18_ntuples/output/batch/june25_2018_allYear_ueu_LNCLNV_charge_test/histograms/histograms_SSdata_ueu.root",
+            "dataLabel":"SS bkg (2018) ( \\mue\\mu",
+            "dataFile_uuu": "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_SSdata_uuu.root",
+            "dataLabel_uuu":"SS bkg (2018) ( \\mu\\mu\\mu",
+            "dataFile_ueu": "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_SSdata_ueu.root",
+            "dataLabel_ueu":"SS bkg (2018) ( \\mue\\mu",
+            "dataLumi": 60.0,
+            "scaleLumi": 140.0,
+
+            
+            "mcFiles_10G":[ "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_mc16e_10G_10mm_uuu.root"
+
+            	      ],
+             "mcFiles":[    
+                         "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_mc16e_5G_10mm_uuu.root",
+                          "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_mc16e_10G_10mm_uuu.root",
+                          "/data/hnl/TRExFitter_tutorial/dHNL_cuts/histograms_mc16e_20G_10mm_uuu.root"
+
+            	      ],
+            "mcLabels":[    "(  5,    10,  \\mu\\mu\\mu",
+                            "( 10,    10,  \\mu\\mu\\mu",
+                            "( 20,    10,  \\mu\\mu\\mu"                  ]
+
+
+}

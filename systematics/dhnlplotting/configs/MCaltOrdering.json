@@ -1,0 +1,17 @@
+{
+            "scaleLumi" : 140.0,
+            "dataLumi" : 60.0,
+             "mcFiles":[    
+                         "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/histograms_mc16e_10G_10mm_ueu.root",
+                         "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/MCaltordering_diagonalU/histograms_mc16e_10G_10mm_ueu.root",
+                         "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/python/MCaltordering_OFFdiagonalU/histograms_mc16e_10G_10mm_ueu.root"
+
+            	      ],
+            "mcLabels":[    "Official samples",
+                            "Correct ordering (diagonal U)",
+                            "Correct ordering (OFF diagonal U)"
+           
+                             ]
+
+
+}

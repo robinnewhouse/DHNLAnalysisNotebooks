@@ -1,0 +1,17 @@
+
+{
+   			"old_dataFile": "/data/hnl/data18_ntuples/toyAnalysis_data18_uuu/histograms_data_uuu.root",
+            "dataFile": "/data/hnl/data18_ntuples/output/batch/may29_2018_allYear_uuu_newHistfolders/histograms/histograms_data_uuu.root",
+            "dataLabel":"data 2018 ( \\mu\\mu\\mu" ,
+            "dataLumi": 60,
+            
+            "mcFiles":[ 
+            	      "../output/oldRECO_histograms_mc16e_20G_10mm_uuu.root",
+                        "../output/histograms_mc16e_20G_10mm_uuu.root"
+            	      ],
+            "mcLabels":[
+            		   "(old reco,   20,    10,  \\mu\\mu\\mu", 
+                           "(new reco,   20,    10,  \\mu\\mu\\mu"  ]
+
+
+}

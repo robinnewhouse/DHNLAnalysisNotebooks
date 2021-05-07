@@ -1,0 +1,16 @@
+{
+            "scaleLumi": 140.0,
+            "dataLumi" : 1.0,
+ 
+          "mcFiles":[
+                     "../output/histograms_mc16e_10G_10mm_uuu.root",
+                     "../output/histograms_mc16e_10G_100mm_uuu.root"
+                  ],
+            "mcLabels":[
+            		        "(  10,    10,  \\mu\\mu\\mu",
+                        "(  10,    100,  \\mu\\mu\\mu"
+                 
+                        ]
+
+
+}

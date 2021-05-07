@@ -1,0 +1,9 @@
+{
+   
+    "ttbarFile": "/home/dtrischuk/HNLAnalysis/DHNLNtupleAnalysis/output/ttbar_MC/histograms_mc16a_uuu.root",
+    "ttbarLabel": "ttbar (nonallhad)" ,
+    "dataLumi":  1.0,
+    "scaleLumi": 140.0
+
+
+}
