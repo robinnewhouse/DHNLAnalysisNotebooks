@@ -1,0 +1,3 @@
+[submodule "dhnlplotting"]
+	path = dhnlplotting
+	url = ssh://git@gitlab.cern.ch:7999/rnewhous/dhnlplotting.git
