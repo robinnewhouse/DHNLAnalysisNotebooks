@@ -1,0 +1,169 @@
+dependent_variables:
+- header:
+    name: uuu
+    units: Events
+  values:
+  - value: 60.055
+  - value: 23.315
+  - value: 23.315
+  - value: 14.939
+  - value: 14.063
+  - value: 14.03
+  - value: 5.1133
+  - value: 4.8144
+  - value: 4.6593
+  - value: 4.6342
+  - value: 4.5213
+  - value: 4.5213
+  - value: 4.3888
+  - value: .nan
+  - value: 4.009
+  - value: 3.6462
+  - value: 3.5742
+  - value: 1.8692
+  - value: 1.8692
+  - value: 1.8692
+- header:
+    name: uue
+    units: Events
+  values:
+  - value: 174.44
+  - value: 64.974
+  - value: 64.974
+  - value: 39.843
+  - value: 37.306
+  - value: 37.261
+  - value: 12.053
+  - value: 11.356
+  - value: 10.874
+  - value: 10.767
+  - value: 10.509
+  - value: 10.509
+  - value: 8.3337
+  - value: .nan
+  - value: 7.4779
+  - value: 6.7876
+  - value: 6.5465
+  - value: 3.6438
+  - value: 3.6438
+  - value: 3.6438
+- header:
+    name: uee
+    units: Events
+  values:
+  - value: 2.7876
+  - value: 0.9937
+  - value: 0.9937
+  - value: 0.54727
+  - value: 0.51106
+  - value: 0.51066
+  - value: 0.14791
+  - value: 0.14295
+  - value: 0.13485
+  - value: 0.13287
+  - value: 0.13081
+  - value: 0.13081
+  - value: 0.088784
+  - value: 0.063277
+  - value: 0.057004
+  - value: 0.05181
+  - value: 0.050314
+  - value: 0.026432
+  - value: 0.026432
+  - value: 0.026432
+- header:
+    name: eee
+    units: Events
+  values:
+  - value: 60.847
+  - value: 17.626
+  - value: 17.626
+  - value: 9.9401
+  - value: 8.1123
+  - value: 8.085
+  - value: 2.3505
+  - value: 2.1863
+  - value: 2.0429
+  - value: 2.016
+  - value: 1.9995
+  - value: 1.9995
+  - value: 1.3532
+  - value: 0.96874
+  - value: 0.85182
+  - value: 0.85224
+  - value: 0.83425
+  - value: 0.44436
+  - value: 0.44436
+  - value: 0.44436
+- header:
+    name: eeu
+    units: Events
+  values:
+  - value: 177.42
+  - value: 54.47
+  - value: 54.47
+  - value: 32.845
+  - value: 26.816
+  - value: 26.691
+  - value: 9.1487
+  - value: 8.3767
+  - value: 8.0702
+  - value: 8.009
+  - value: 7.8573
+  - value: 7.8573
+  - value: 6.3174
+  - value: .nan
+  - value: 5.6939
+  - value: 5.6554
+  - value: 5.4998
+  - value: 2.9771
+  - value: 2.9621
+  - value: 2.9621
+- header:
+    name: euu
+    units: Events
+  values:
+  - value: 2.8003
+  - value: 0.88373
+  - value: 0.88373
+  - value: 0.57316
+  - value: 0.46221
+  - value: 0.45938
+  - value: 0.17874
+  - value: 0.16549
+  - value: 0.16012
+  - value: 0.15941
+  - value: 0.15493
+  - value: 0.15493
+  - value: 0.14872
+  - value: .nan
+  - value: 0.13368
+  - value: 0.13313
+  - value: 0.12811
+  - value: 0.066197
+  - value: 0.066197
+  - value: 0.066197
+independent_variables:
+- header:
+    name: Selection
+  values:
+  - value: All
+  - value: Trigger
+  - value: PV
+  - value: 4-filter
+  - value: Medium prompt lep.
+  - value: P.lep. overlap
+  - value: DV
+  - value: Fiducial
+  - value: 2-track DV
+  - value: OS DV
+  - value: Lep. type DV
+  - value: Cosmic veto
+  - value: Lepton pt
+  - value: Mat. veto
+  - value: Lep. qual. DV
+  - value: Trig. match
+  - value: m_{lll}
+  - value: B-hadron veto
+  - value: Z mass veto
+  - value: m_{HNL}

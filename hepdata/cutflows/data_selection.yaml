@@ -1,0 +1,176 @@
+dependent_variables:
+- header:
+    name: uuu
+    units: Events
+  values:
+  - value: 101920000.0
+  - value: 22003000.0
+  - value: 22003000.0
+  - value: 16295000.0
+  - value: 8023700.0
+  - value: 6259900.0
+  - value: 6259900.0
+  - value: 3206000.0
+  - value: 1975900.0
+  - value: 1166700.0
+  - value: 10114.0
+  - value: 10113.0
+  - value: 8387.0
+  - value: .nan
+  - value: 6217.0
+  - value: 5618.0
+  - value: 2990.0
+  - value: 16.0
+  - value: 16.0
+  - value: 2.0
+  - value: .nan
+- header:
+    name: uue
+    units: Events
+  values:
+  - value: 101920000.0
+  - value: 22003000.0
+  - value: 22003000.0
+  - value: 16295000.0
+  - value: 8023700.0
+  - value: 6259900.0
+  - value: 6259900.0
+  - value: 3206000.0
+  - value: 1975900.0
+  - value: 1166700.0
+  - value: 95911.0
+  - value: 95887.0
+  - value: 36788.0
+  - value: .nan
+  - value: 5484.0
+  - value: 4645.0
+  - value: 2631.0
+  - value: 30.0
+  - value: 29.0
+  - value: 2.0
+  - value: 0
+- header:
+    name: uee
+    units: Events
+  values:
+  - value: 101920000.0
+  - value: 22003000.0
+  - value: 22003000.0
+  - value: 16295000.0
+  - value: 8023700.0
+  - value: 6259900.0
+  - value: 6259900.0
+  - value: 3206000.0
+  - value: 1975900.0
+  - value: 1166700.0
+  - value: 1012900.0
+  - value: 1012700.0
+  - value: 80998.0
+  - value: 47948.0
+  - value: 6056.0
+  - value: 5599.0
+  - value: 3277.0
+  - value: 7.0
+  - value: 7.0
+  - value: 1.0
+  - value: .nan
+- header:
+    name: eee
+    units: Events
+  values:
+  - value: 101630000.0
+  - value: 21925000.0
+  - value: 21925000.0
+  - value: 16237000.0
+  - value: 6427500.0
+  - value: 4664300.0
+  - value: 4664300.0
+  - value: 2437200.0
+  - value: 1508500.0
+  - value: 921700.0
+  - value: 808400.0
+  - value: 808300.0
+  - value: 65239.0
+  - value: 37003.0
+  - value: 6218.0
+  - value: 6080.0
+  - value: 3649.0
+  - value: 15.0
+  - value: 9.0
+  - value: 2.0
+  - value: .nan
+- header:
+    name: eeu
+    units: Events
+  values:
+  - value: 101920000.0
+  - value: 22003000.0
+  - value: 22003000.0
+  - value: 16295000.0
+  - value: 6449800.0
+  - value: 4680300.0
+  - value: 4680300.0
+  - value: 2445500.0
+  - value: 1513700.0
+  - value: 924860.0
+  - value: 69704.0
+  - value: 69691.0
+  - value: 26871.0
+  - value: .nan
+  - value: 3349.0
+  - value: 3157.0
+  - value: 1813.0
+  - value: 13.0
+  - value: 12.0
+  - value: 0.0
+  - value: 0
+- header:
+    name: euu
+    units: Events
+  values:
+  - value: 101920000.0
+  - value: 22003000.0
+  - value: 22003000.0
+  - value: 16295000.0
+  - value: 6449800.0
+  - value: 4680300.0
+  - value: 4680300.0
+  - value: 2445500.0
+  - value: 1513700.0
+  - value: 924860.0
+  - value: 6709.0
+  - value: 6706.0
+  - value: 5652.0
+  - value: .nan
+  - value: 4130.0
+  - value: 3922.0
+  - value: 2210.0
+  - value: 5.0
+  - value: 5.0
+  - value: 1.0
+  - value: .nan
+independent_variables:
+- header:
+    name: Selection
+  values:
+  - value: All
+  - value: Trigger
+  - value: PV
+  - value: 4-filter
+  - value: Medium prompt lep.
+  - value: P.lep. overlap
+  - value: DV
+  - value: Fiducial
+  - value: 2-track DV
+  - value: OS DV
+  - value: Lep. type DV
+  - value: Cosmic veto
+  - value: Lepton pt
+  - value: Mat. veto
+  - value: Lep. qual. DV
+  - value: Trig. match
+  - value: m_{lll}
+  - value: B-hadron veto
+  - value: Z mass veto
+  - value: m_{HNL}
+  - value: Charge split (Dirac only)

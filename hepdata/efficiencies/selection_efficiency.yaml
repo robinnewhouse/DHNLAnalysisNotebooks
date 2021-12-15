@@ -1,0 +1,268 @@
+dependent_variables:
+- header:
+    name: uuu
+  values:
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0046953
+  - value: 0.010193
+  - value: 0.0032337
+  - value: 0.0089844
+  - value: 0.029347
+  - value: 0.011439
+  - value: 0.008679
+  - value: 0.037504
+  - value: 0.015455
+  - value: 0.0063529
+  - value: 0.040276
+  - value: 0.01837
+  - value: 0.0063728
+  - value: 0.041722
+  - value: 0.023551
+  - value: 0.0020169
+  - value: 0.02637
+  - value: 0.015588
+- header:
+    name: uue
+  values:
+  - value: 0.0
+  - value: 0.0016647
+  - value: 0.00074584
+  - value: 3.5541e-05
+  - value: 0.0034661
+  - value: 0.001953
+  - value: 1.307e-06
+  - value: 0.0035805
+  - value: 0.0022749
+  - value: 1.6386e-06
+  - value: 0.0037568
+  - value: 0.0024758
+  - value: 0.0015401
+  - value: 0.010409
+  - value: 0.0054693
+  - value: 0.0037077
+  - value: 0.018715
+  - value: 0.0096409
+  - value: 0.0042881
+  - value: 0.023673
+  - value: 0.01077
+  - value: 0.0031973
+  - value: 0.025472
+  - value: 0.013774
+  - value: 0.0027279
+  - value: 0.026717
+  - value: 0.015435
+  - value: 0.0012613
+  - value: 0.016603
+  - value: 0.0099687
+- header:
+    name: eeu
+  values:
+  - value: 0.00010079
+  - value: 0.0011497
+  - value: 0.00089518
+  - value: 1.0221e-05
+  - value: 0.0028267
+  - value: 0.0012778
+  - value: 0.0
+  - value: 0.0034611
+  - value: 0.0018784
+  - value: 2.9574e-05
+  - value: 0.0039246
+  - value: 0.0031172
+  - value: 0.0017905
+  - value: 0.0068499
+  - value: 0.0037003
+  - value: 0.0036558
+  - value: 0.01481
+  - value: 0.0071495
+  - value: 0.003095
+  - value: 0.018745
+  - value: 0.011379
+  - value: 0.0020601
+  - value: 0.020498
+  - value: 0.012261
+  - value: 0.0014536
+  - value: 0.023165
+  - value: 0.012546
+  - value: 0.0
+  - value: 0.01448
+  - value: 0.00037094
+- header:
+    name: eee
+  values:
+  - value: 0.0
+  - value: 0.00055288
+  - value: 0.00012451
+  - value: 0.0
+  - value: 0.0012738
+  - value: 0.00044489
+  - value: 0.0
+  - value: 0.00064199
+  - value: 0.0005222
+  - value: 8.534e-06
+  - value: 0.00094011
+  - value: 0.00068229
+  - value: 0.00052098
+  - value: 0.0023383
+  - value: 0.0019331
+  - value: 0.0023062
+  - value: 0.0064502
+  - value: 0.0048585
+  - value: 0.0013291
+  - value: 0.0088471
+  - value: 0.0029477
+  - value: 0.0018265
+  - value: 0.010436
+  - value: 0.005362
+  - value: 0.00092656
+  - value: 0.012021
+  - value: 0.0048876
+  - value: 0.00064664
+  - value: 0.0085797
+  - value: 0.0040117
+- header:
+    name: uee
+  values:
+  - value: 0.0
+  - value: 0.00044901
+  - value: 0.00017
+  - value: 0.0
+  - value: 0.00063199
+  - value: 0.00042789
+  - value: 0.0
+  - value: 0.0012714
+  - value: 0.00076504
+  - value: 0.0
+  - value: 0.0012947
+  - value: 0.00077583
+  - value: 0.00085628
+  - value: 0.0040035
+  - value: 0.0021871
+  - value: 0.0024627
+  - value: 0.0077806
+  - value: 0.0026149
+  - value: 0.0022272
+  - value: 0.011317
+  - value: 0.004123
+  - value: 0.0022824
+  - value: 0.01319
+  - value: 0.0052581
+  - value: 0.0012533
+  - value: 0.012226
+  - value: 0.0064552
+  - value: 0.00099665
+  - value: 0.0099644
+  - value: 0.0045074
+- header:
+    name: euu
+  values:
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0
+  - value: 0.0032067
+  - value: 0.0079817
+  - value: 0.00305
+  - value: 0.0068638
+  - value: 0.021897
+  - value: 0.0076385
+  - value: 0.0055462
+  - value: 0.029315
+  - value: 0.012058
+  - value: 0.0054281
+  - value: 0.031362
+  - value: 0.016059
+  - value: 0.0036842
+  - value: 0.030309
+  - value: 0.017667
+  - value: 0.0014696
+  - value: 0.021148
+  - value: 0.011766
+independent_variables:
+- header:
+    name: Lifetime
+    units: mm
+  values:
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+  - value: 1
+  - value: 10
+  - value: 100
+- header:
+    name: Mass
+    units: GeV
+  values:
+  - value: 3
+  - value: 4
+  - value: 4.5
+  - value: 5
+  - value: 7.5
+  - value: 10
+  - value: 12.5
+  - value: 15
+  - value: 17.5
+  - value: 20
+  - value: 3
+  - value: 4
+  - value: 4.5
+  - value: 5
+  - value: 7.5
+  - value: 10
+  - value: 12.5
+  - value: 15
+  - value: 17.5
+  - value: 20
+  - value: 3
+  - value: 4
+  - value: 4.5
+  - value: 5
+  - value: 7.5
+  - value: 10
+  - value: 12.5
+  - value: 15
+  - value: 17.5
+  - value: 20

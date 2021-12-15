@@ -1,0 +1,50 @@
+---
+additional_resources:
+- description: Created with hepdata_lib 0.10.0
+  location: https://zenodo.org/record/4946277
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+additional_resources:
+- description: Image file
+  location: efficiency_euu.png
+- description: Thumbnail image file
+  location: thumb_efficiency_euu.png
+- description: Image file
+  location: efficiency_eeu.png
+- description: Thumbnail image file
+  location: thumb_efficiency_eeu.png
+- description: Image file
+  location: efficiency_uee.png
+- description: Thumbnail image file
+  location: thumb_efficiency_uee.png
+- description: Image file
+  location: efficiency_uue.png
+- description: Thumbnail image file
+  location: thumb_efficiency_uue.png
+- description: Image file
+  location: efficiency_uuu.png
+- description: Thumbnail image file
+  location: thumb_efficiency_uuu.png
+- description: Image file
+  location: efficiency_eee.png
+- description: Thumbnail image file
+  location: thumb_efficiency_eee.png
+data_file: selection_efficiency.yaml
+description: The event selection efficiency for each mass-lifetime point in all six
+  studied channels. Shown is the percentage of the produced MC simulation events that
+  pass all signal region selections. An entry of 0 indicates no events were selected.
+keywords:
+- name: phrases
+  values:
+  - efficiency
+  - selection
+- name: cmenergies
+  values:
+  - 13000
+location: Data corresponds to Figure XXXXXX
+name: Selection Efficiency

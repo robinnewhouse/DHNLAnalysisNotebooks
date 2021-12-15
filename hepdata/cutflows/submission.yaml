@@ -1,0 +1,113 @@
+---
+additional_resources:
+- description: Created with hepdata_lib 0.10.0
+  location: https://zenodo.org/record/4946277
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+data_file: raw_event_counts.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: Raw Event Counts'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Raw Event Counts
+---
+data_file: one_hnl_majorana.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: One HNL Majorana'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: One HNL Majorana
+---
+data_file: one_hnl_dirac.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: One HNL Dirac'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: One HNL Dirac
+---
+data_file: majorana_limit_ih.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: Majorana limit IH'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Majorana limit IH
+---
+data_file: majorana_limit_nh.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: Majorana limit NH'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Majorana limit NH
+---
+data_file: dirac_limit_ih.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: Dirac limit IH'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Dirac limit IH
+---
+data_file: dirac_limit_nh.yaml
+description: 'This cutflow for six simulated signal channels shows the weighted number
+  of expected events. Each column uses the 10 mm, 10 GeV sample. The weights applied
+  correspond to the model: Dirac limit NH'
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Dirac limit NH
+---
+data_file: data_selection.yaml
+description: This cutflow shows the number of passing data events data with six selections
+  applied corresponding to the six different signal channels for Majorana HNLs.
+keywords:
+- name: phrases
+  values:
+  - cutflow
+  - efficiency
+  - selection
+location: Data corresponds to Table XXXXXX
+name: Data selection

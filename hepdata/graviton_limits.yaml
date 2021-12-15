@@ -1,0 +1,53 @@
+dependent_variables:
+- header:
+    name: Raw event count
+    units: Events
+  values:
+  - value: 60.847
+  - value: 17.626
+  - value: 17.626
+  - value: 9.9401
+  - value: 8.1123
+  - value: 8.085
+  - value: 2.3505
+  - value: 2.1863
+  - value: 2.0429
+  - value: 2.016
+  - value: 1.9995
+  - value: 1.9995
+  - value: 1.3532
+  - value: 0.96874
+  - value: 0.85182
+  - value: 0.85224
+  - value: 0.83425
+  - value: 0.44436
+  - value: 0.44436
+  - value: 0.44436
+  - value: 0.0
+  - value: 0.39248
+independent_variables:
+- header:
+    name: Selection
+  values:
+  - value: All
+  - value: Trigger
+  - value: PV
+  - value: 4-filter
+  - value: Medium prompt lep.
+  - value: P.lep. overlap
+  - value: DV
+  - value: Fiducial
+  - value: 2-track DV
+  - value: OS DV
+  - value: Lep. type DV
+  - value: Cosmic veto
+  - value: Lepton pt
+  - value: Mat. veto
+  - value: Lep. qual. DV
+  - value: Trig. match
+  - value: m_{lll}
+  - value: B-hadron veto
+  - value: Z mass veto
+  - value: m_{HNL}
+  - value: empty
+  - value: truth matched
