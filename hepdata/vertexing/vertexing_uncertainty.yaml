@@ -1,0 +1,688 @@
+dependent_variables:
+- header:
+    name: Data/MC Ratio
+  values:
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0023
+  - value: 1.006
+  - value: 1.0748
+  - value: 0.94302
+  - value: 1.0516
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0
+  - value: 1.0425
+  - value: 1.0701
+  - value: 1.0743
+  - value: 0.99522
+  - value: 1.1072
+  - value: 1.0704
+  - value: 1.1027
+  - value: 1.0
+  - value: 1.0
+  - value: 0.98844
+  - value: 1.0534
+  - value: 1.0589
+  - value: 1.0084
+  - value: 1.104
+  - value: 1.0983
+  - value: 1.1733
+  - value: 1.137
+  - value: 1.0
+  - value: 0.96178
+  - value: 0.99876
+  - value: 1.072
+  - value: 1.0034
+  - value: 1.0726
+  - value: 1.136
+  - value: 1.2397
+  - value: 1.1898
+  - value: 1.2824
+  - value: 0.84549
+  - value: 0.93629
+  - value: 1.0585
+  - value: 0.97652
+  - value: 1.0739
+  - value: 1.1103
+  - value: 1.1879
+  - value: 1.1227
+  - value: 1.1134
+  - value: 0.83385
+  - value: 0.94861
+  - value: 0.94418
+  - value: 0.95794
+  - value: 1.0194
+  - value: 1.0641
+  - value: 1.1819
+  - value: 1.232
+  - value: 1.4701
+  - value: 0.79267
+  - value: 0.89892
+  - value: 0.92213
+  - value: 0.94057
+  - value: 0.98708
+  - value: 1.0495
+  - value: 1.0363
+  - value: 1.1478
+  - value: 1.3988
+  - value: 0.78091
+  - value: 0.875
+  - value: 0.9461
+  - value: 0.86645
+  - value: 0.95229
+  - value: 1.0103
+  - value: 1.089
+  - value: 0.94462
+  - value: 0.94722
+  - value: 0.78123
+  - value: 0.84247
+  - value: 0.91174
+  - value: 0.94176
+  - value: 0.93132
+  - value: 1.0501
+  - value: 1.0928
+  - value: 1.0759
+  - value: 1.0667
+  - value: 0.79844
+  - value: 0.93407
+  - value: 0.98989
+  - value: 0.8789
+  - value: 0.97015
+  - value: 1.0169
+  - value: 1.0469
+  - value: 0.84105
+  - value: 1.1475
+  - value: 0.83768
+  - value: 0.88835
+  - value: 0.9378
+  - value: 0.97828
+  - value: 0.98341
+  - value: 0.98281
+  - value: 1.0961
+  - value: 1.1811
+  - value: 1.3492
+  - value: 0.80301
+  - value: 0.84732
+  - value: 1.019
+  - value: 0.91699
+  - value: 1.0315
+  - value: 1.0429
+  - value: 1.0571
+  - value: 1.0573
+  - value: 1.0095
+  - value: 0.84257
+  - value: 0.83136
+  - value: 0.97702
+  - value: 0.86056
+  - value: 1.0039
+  - value: 0.99543
+  - value: 1.0412
+  - value: 1.3147
+  - value: 1.2443
+  - value: 0.79143
+  - value: 0.90608
+  - value: 0.92349
+  - value: 0.79744
+  - value: 0.90383
+  - value: 0.99101
+  - value: 1.1679
+  - value: 1.0189
+  - value: 0.87441
+independent_variables:
+- header:
+    name: r_{DV}
+    units: mm
+  values:
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 20.0
+    low: 4.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 40.0
+    low: 20.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 60.0
+    low: 40.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 80.0
+    low: 60.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 100.0
+    low: 80.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 120.0
+    low: 100.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 140.0
+    low: 120.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 160.0
+    low: 140.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 180.0
+    low: 160.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 200.0
+    low: 180.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 220.0
+    low: 200.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 240.0
+    low: 220.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 260.0
+    low: 240.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 280.0
+    low: 260.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+  - high: 300.0
+    low: 280.0
+- header:
+    name: DV p_T
+    units: GeV
+  values:
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0
+  - high: 4.0
+    low: 2.0
+  - high: 6.0
+    low: 4.0
+  - high: 8.0
+    low: 6.0
+  - high: 10.0
+    low: 8.0
+  - high: 15.0
+    low: 10.0
+  - high: 20.0
+    low: 15.0
+  - high: 25.0
+    low: 20.0
+  - high: 35.0
+    low: 25.0
+  - high: 37.0
+    low: 35.0

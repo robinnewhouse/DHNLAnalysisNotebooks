@@ -1,0 +1,22 @@
+---
+additional_resources:
+- description: Created with hepdata_lib 0.10.0
+  location: https://zenodo.org/record/4946277
+comment: ''
+data_license:
+  description: The content can be shared and adapted but you must             give
+    appropriate credit and cannot restrict access to others.
+  name: cc-by-4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+---
+data_file: vertexing_uncertainty.yaml
+description: The ratio of kshort vertices used to estimate the displaced vertexing
+  and tracking uncertainty
+keywords:
+- name: phrases
+  values:
+  - 'vertexing '
+  - systematic
+  - kshort
+location: Data corresponds to Table XXXXXX
+name: Vertexing uncertainty
