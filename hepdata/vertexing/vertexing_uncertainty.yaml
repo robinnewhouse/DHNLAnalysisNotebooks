@@ -2,141 +2,546 @@ dependent_variables:
 - header:
     name: Data/MC Ratio
   values:
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0023
-  - value: 1.006
-  - value: 1.0748
-  - value: 0.94302
-  - value: 1.0516
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0
-  - value: 1.0425
-  - value: 1.0701
-  - value: 1.0743
-  - value: 0.99522
-  - value: 1.1072
-  - value: 1.0704
-  - value: 1.1027
-  - value: 1.0
-  - value: 1.0
-  - value: 0.98844
-  - value: 1.0534
-  - value: 1.0589
-  - value: 1.0084
-  - value: 1.104
-  - value: 1.0983
-  - value: 1.1733
-  - value: 1.137
-  - value: 1.0
-  - value: 0.96178
-  - value: 0.99876
-  - value: 1.072
-  - value: 1.0034
-  - value: 1.0726
-  - value: 1.136
-  - value: 1.2397
-  - value: 1.1898
-  - value: 1.2824
-  - value: 0.84549
-  - value: 0.93629
-  - value: 1.0585
-  - value: 0.97652
-  - value: 1.0739
-  - value: 1.1103
-  - value: 1.1879
-  - value: 1.1227
-  - value: 1.1134
-  - value: 0.83385
-  - value: 0.94861
-  - value: 0.94418
-  - value: 0.95794
-  - value: 1.0194
-  - value: 1.0641
-  - value: 1.1819
-  - value: 1.232
-  - value: 1.4701
-  - value: 0.79267
-  - value: 0.89892
-  - value: 0.92213
-  - value: 0.94057
-  - value: 0.98708
-  - value: 1.0495
-  - value: 1.0363
-  - value: 1.1478
-  - value: 1.3988
-  - value: 0.78091
-  - value: 0.875
-  - value: 0.9461
-  - value: 0.86645
-  - value: 0.95229
-  - value: 1.0103
-  - value: 1.089
-  - value: 0.94462
-  - value: 0.94722
-  - value: 0.78123
-  - value: 0.84247
-  - value: 0.91174
-  - value: 0.94176
-  - value: 0.93132
-  - value: 1.0501
-  - value: 1.0928
-  - value: 1.0759
-  - value: 1.0667
-  - value: 0.79844
-  - value: 0.93407
-  - value: 0.98989
-  - value: 0.8789
-  - value: 0.97015
-  - value: 1.0169
-  - value: 1.0469
-  - value: 0.84105
-  - value: 1.1475
-  - value: 0.83768
-  - value: 0.88835
-  - value: 0.9378
-  - value: 0.97828
-  - value: 0.98341
-  - value: 0.98281
-  - value: 1.0961
-  - value: 1.1811
-  - value: 1.3492
-  - value: 0.80301
-  - value: 0.84732
-  - value: 1.019
-  - value: 0.91699
-  - value: 1.0315
-  - value: 1.0429
-  - value: 1.0571
-  - value: 1.0573
-  - value: 1.0095
-  - value: 0.84257
-  - value: 0.83136
-  - value: 0.97702
-  - value: 0.86056
-  - value: 1.0039
-  - value: 0.99543
-  - value: 1.0412
-  - value: 1.3147
-  - value: 1.2443
-  - value: 0.79143
-  - value: 0.90608
-  - value: 0.92349
-  - value: 0.79744
-  - value: 0.90383
-  - value: 0.99101
-  - value: 1.1679
-  - value: 1.0189
-  - value: 0.87441
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0032618
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0066875
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.014127
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.028782
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.053957
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.028713
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.068989
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.049181
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.066798
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0021147
+    value: 1.0023
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0038589
+    value: 1.006
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0072608
+    value: 1.0748
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0095003
+    value: 0.94302
+  - errors:
+    - label: Uncertainty
+      symerror: 0.012371
+    value: 1.0516
+  - errors:
+    - label: Uncertainty
+      symerror: 0.028713
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.068989
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.049181
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.066798
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0024717
+    value: 1.0425
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0043356
+    value: 1.0701
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0072269
+    value: 1.0743
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0096754
+    value: 0.99522
+  - errors:
+    - label: Uncertainty
+      symerror: 0.011228
+    value: 1.1072
+  - errors:
+    - label: Uncertainty
+      symerror: 0.020478
+    value: 1.0704
+  - errors:
+    - label: Uncertainty
+      symerror: 0.036987
+    value: 1.1027
+  - errors:
+    - label: Uncertainty
+      symerror: 0.049181
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.066798
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0027387
+    value: 0.98844
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0046625
+    value: 1.0534
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0075112
+    value: 1.0589
+  - errors:
+    - label: Uncertainty
+      symerror: 0.010265
+    value: 1.0084
+  - errors:
+    - label: Uncertainty
+      symerror: 0.011274
+    value: 1.104
+  - errors:
+    - label: Uncertainty
+      symerror: 0.02015
+    value: 1.0983
+  - errors:
+    - label: Uncertainty
+      symerror: 0.034948
+    value: 1.1733
+  - errors:
+    - label: Uncertainty
+      symerror: 0.041761
+    value: 1.137
+  - errors:
+    - label: Uncertainty
+      symerror: 0.066798
+    value: 1.0
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0038072
+    value: 0.96178
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0057827
+    value: 0.99876
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0097299
+    value: 1.072
+  - errors:
+    - label: Uncertainty
+      symerror: 0.012668
+    value: 1.0034
+  - errors:
+    - label: Uncertainty
+      symerror: 0.013242
+    value: 1.0726
+  - errors:
+    - label: Uncertainty
+      symerror: 0.024751
+    value: 1.136
+  - errors:
+    - label: Uncertainty
+      symerror: 0.04298
+    value: 1.2397
+  - errors:
+    - label: Uncertainty
+      symerror: 0.047733
+    value: 1.1898
+  - errors:
+    - label: Uncertainty
+      symerror: 0.093279
+    value: 1.2824
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0053398
+    value: 0.84549
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0077881
+    value: 0.93629
+  - errors:
+    - label: Uncertainty
+      symerror: 0.013317
+    value: 1.0585
+  - errors:
+    - label: Uncertainty
+      symerror: 0.016765
+    value: 0.97652
+  - errors:
+    - label: Uncertainty
+      symerror: 0.017792
+    value: 1.0739
+  - errors:
+    - label: Uncertainty
+      symerror: 0.032215
+    value: 1.1103
+  - errors:
+    - label: Uncertainty
+      symerror: 0.054883
+    value: 1.1879
+  - errors:
+    - label: Uncertainty
+      symerror: 0.061238
+    value: 1.1227
+  - errors:
+    - label: Uncertainty
+      symerror: 0.098359
+    value: 1.1134
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0080195
+    value: 0.83385
+  - errors:
+    - label: Uncertainty
+      symerror: 0.011286
+    value: 0.94861
+  - errors:
+    - label: Uncertainty
+      symerror: 0.015211
+    value: 0.94418
+  - errors:
+    - label: Uncertainty
+      symerror: 0.020637
+    value: 0.95794
+  - errors:
+    - label: Uncertainty
+      symerror: 0.020037
+    value: 1.0194
+  - errors:
+    - label: Uncertainty
+      symerror: 0.034187
+    value: 1.0641
+  - errors:
+    - label: Uncertainty
+      symerror: 0.056997
+    value: 1.1819
+  - errors:
+    - label: Uncertainty
+      symerror: 0.067673
+    value: 1.232
+  - errors:
+    - label: Uncertainty
+      symerror: 0.12444
+    value: 1.4701
+  - errors:
+    - label: Uncertainty
+      symerror: 0.0095673
+    value: 0.79267
+  - errors:
+    - label: Uncertainty
+      symerror: 0.013382
+    value: 0.89892
+  - errors:
+    - label: Uncertainty
+      symerror: 0.018724
+    value: 0.92213
+  - errors:
+    - label: Uncertainty
+      symerror: 0.025595
+    value: 0.94057
+  - errors:
+    - label: Uncertainty
+      symerror: 0.024492
+    value: 0.98708
+  - errors:
+    - label: Uncertainty
+      symerror: 0.043539
+    value: 1.0495
+  - errors:
+    - label: Uncertainty
+      symerror: 0.066806
+    value: 1.0363
+  - errors:
+    - label: Uncertainty
+      symerror: 0.086896
+    value: 1.1478
+  - errors:
+    - label: Uncertainty
+      symerror: 0.17033
+    value: 1.3988
+  - errors:
+    - label: Uncertainty
+      symerror: 0.010103
+    value: 0.78091
+  - errors:
+    - label: Uncertainty
+      symerror: 0.013622
+    value: 0.875
+  - errors:
+    - label: Uncertainty
+      symerror: 0.020515
+    value: 0.9461
+  - errors:
+    - label: Uncertainty
+      symerror: 0.023854
+    value: 0.86645
+  - errors:
+    - label: Uncertainty
+      symerror: 0.024321
+    value: 0.95229
+  - errors:
+    - label: Uncertainty
+      symerror: 0.042781
+    value: 1.0103
+  - errors:
+    - label: Uncertainty
+      symerror: 0.071421
+    value: 1.089
+  - errors:
+    - label: Uncertainty
+      symerror: 0.069978
+    value: 0.94462
+  - errors:
+    - label: Uncertainty
+      symerror: 0.10356
+    value: 0.94722
+  - errors:
+    - label: Uncertainty
+      symerror: 0.010995
+    value: 0.78123
+  - errors:
+    - label: Uncertainty
+      symerror: 0.013848
+    value: 0.84247
+  - errors:
+    - label: Uncertainty
+      symerror: 0.020329
+    value: 0.91174
+  - errors:
+    - label: Uncertainty
+      symerror: 0.027791
+    value: 0.94176
+  - errors:
+    - label: Uncertainty
+      symerror: 0.024662
+    value: 0.93132
+  - errors:
+    - label: Uncertainty
+      symerror: 0.047545
+    value: 1.0501
+  - errors:
+    - label: Uncertainty
+      symerror: 0.071528
+    value: 1.0928
+  - errors:
+    - label: Uncertainty
+      symerror: 0.083091
+    value: 1.0759
+  - errors:
+    - label: Uncertainty
+      symerror: 0.12144
+    value: 1.0667
+  - errors:
+    - label: Uncertainty
+      symerror: 0.01213
+    value: 0.79844
+  - errors:
+    - label: Uncertainty
+      symerror: 0.016694
+    value: 0.93407
+  - errors:
+    - label: Uncertainty
+      symerror: 0.023647
+    value: 0.98989
+  - errors:
+    - label: Uncertainty
+      symerror: 0.026196
+    value: 0.8789
+  - errors:
+    - label: Uncertainty
+      symerror: 0.026648
+    value: 0.97015
+  - errors:
+    - label: Uncertainty
+      symerror: 0.04584
+    value: 1.0169
+  - errors:
+    - label: Uncertainty
+      symerror: 0.070353
+    value: 1.0469
+  - errors:
+    - label: Uncertainty
+      symerror: 0.062545
+    value: 0.84105
+  - errors:
+    - label: Uncertainty
+      symerror: 0.13351
+    value: 1.1475
+  - errors:
+    - label: Uncertainty
+      symerror: 0.01347
+    value: 0.83768
+  - errors:
+    - label: Uncertainty
+      symerror: 0.016213
+    value: 0.88835
+  - errors:
+    - label: Uncertainty
+      symerror: 0.023399
+    value: 0.9378
+  - errors:
+    - label: Uncertainty
+      symerror: 0.030931
+    value: 0.97828
+  - errors:
+    - label: Uncertainty
+      symerror: 0.028012
+    value: 0.98341
+  - errors:
+    - label: Uncertainty
+      symerror: 0.045147
+    value: 0.98281
+  - errors:
+    - label: Uncertainty
+      symerror: 0.077742
+    value: 1.0961
+  - errors:
+    - label: Uncertainty
+      symerror: 0.098275
+    value: 1.1811
+  - errors:
+    - label: Uncertainty
+      symerror: 0.1615
+    value: 1.3492
+  - errors:
+    - label: Uncertainty
+      symerror: 0.01346
+    value: 0.80301
+  - errors:
+    - label: Uncertainty
+      symerror: 0.015966
+    value: 0.84732
+  - errors:
+    - label: Uncertainty
+      symerror: 0.02672
+    value: 1.019
+  - errors:
+    - label: Uncertainty
+      symerror: 0.029409
+    value: 0.91699
+  - errors:
+    - label: Uncertainty
+      symerror: 0.030634
+    value: 1.0315
+  - errors:
+    - label: Uncertainty
+      symerror: 0.050956
+    value: 1.0429
+  - errors:
+    - label: Uncertainty
+      symerror: 0.074615
+    value: 1.0571
+  - errors:
+    - label: Uncertainty
+      symerror: 0.082217
+    value: 1.0573
+  - errors:
+    - label: Uncertainty
+      symerror: 0.11102
+    value: 1.0095
+  - errors:
+    - label: Uncertainty
+      symerror: 0.015151
+    value: 0.84257
+  - errors:
+    - label: Uncertainty
+      symerror: 0.016414
+    value: 0.83136
+  - errors:
+    - label: Uncertainty
+      symerror: 0.026323
+    value: 0.97702
+  - errors:
+    - label: Uncertainty
+      symerror: 0.02895
+    value: 0.86056
+  - errors:
+    - label: Uncertainty
+      symerror: 0.030904
+    value: 1.0039
+  - errors:
+    - label: Uncertainty
+      symerror: 0.051549
+    value: 0.99543
+  - errors:
+    - label: Uncertainty
+      symerror: 0.075914
+    value: 1.0412
+  - errors:
+    - label: Uncertainty
+      symerror: 0.12112
+    value: 1.3147
+  - errors:
+    - label: Uncertainty
+      symerror: 0.15832
+    value: 1.2443
+  - errors:
+    - label: Uncertainty
+      symerror: 0.016591
+    value: 0.79143
+  - errors:
+    - label: Uncertainty
+      symerror: 0.02183
+    value: 0.90608
+  - errors:
+    - label: Uncertainty
+      symerror: 0.030107
+    value: 0.92349
+  - errors:
+    - label: Uncertainty
+      symerror: 0.031364
+    value: 0.79744
+  - errors:
+    - label: Uncertainty
+      symerror: 0.033711
+    value: 0.90383
+  - errors:
+    - label: Uncertainty
+      symerror: 0.063608
+    value: 0.99101
+  - errors:
+    - label: Uncertainty
+      symerror: 0.1135
+    value: 1.1679
+  - errors:
+    - label: Uncertainty
+      symerror: 0.11488
+    value: 1.0189
+  - errors:
+    - label: Uncertainty
+      symerror: 0.12428
+    value: 0.87441
 independent_variables:
 - header:
     name: r_{DV}

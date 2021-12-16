@@ -9,14 +9,29 @@ data_license:
   name: cc-by-4.0
   url: https://creativecommons.org/licenses/by/4.0/
 ---
+additional_resources:
+- description: Image file
+  location: vertex_comparison_2D.png
+- description: Thumbnail image file
+  location: thumb_vertex_comparison_2D.png
+- description: Image file
+  location: vertex_comparison_2D.png
+- description: Thumbnail image file
+  location: thumb_vertex_comparison_2D.png
 data_file: vertexing_uncertainty.yaml
-description: The ratio of kshort vertices used to estimate the displaced vertexing
-  and tracking uncertainty
+description: "The dominant signal uncertainty is due to differences in reconstruction\
+  \ of displaced vertices and tracks between data and MC.  \nThis is evaluated by\
+  \ comparing $K^{0}_{S} \\rightarrow \\pi^+\\pi^-$ event yields in the VR and in\
+  \ MC produced with Pythia8.186 in bins of $p_\\mathrm{T}$ and $r_\\mathrm{DV}$.\n\
+  The data/MC ratio is normalized to the bin nearest the IP where the tracking and\
+  \ vertexing reconstruction algorithms are expected to be most robust.\nThe symmetrized\
+  \ difference from 1.0 is applied to each signal vertex as a per-event systematic\
+  \ variation."
 keywords:
 - name: phrases
   values:
-  - 'vertexing '
+  - vertexing
   - systematic
   - kshort
-location: Data corresponds to Table XXXXXX
+location: Data corresponds to Figure XXXXXX
 name: Vertexing uncertainty
