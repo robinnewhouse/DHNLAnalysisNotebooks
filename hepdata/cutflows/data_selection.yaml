@@ -23,7 +23,6 @@ dependent_variables:
   - value: 16.0
   - value: 16.0
   - value: 2.0
-  - value: .nan
 - header:
     name: uue
     units: Events
@@ -48,7 +47,6 @@ dependent_variables:
   - value: 30.0
   - value: 29.0
   - value: 2.0
-  - value: 0
 - header:
     name: uee
     units: Events
@@ -73,7 +71,6 @@ dependent_variables:
   - value: 7.0
   - value: 7.0
   - value: 1.0
-  - value: .nan
 - header:
     name: eee
     units: Events
@@ -98,7 +95,6 @@ dependent_variables:
   - value: 15.0
   - value: 9.0
   - value: 2.0
-  - value: .nan
 - header:
     name: eeu
     units: Events
@@ -123,7 +119,6 @@ dependent_variables:
   - value: 13.0
   - value: 12.0
   - value: 0.0
-  - value: 0
 - header:
     name: euu
     units: Events
@@ -148,7 +143,6 @@ dependent_variables:
   - value: 5.0
   - value: 5.0
   - value: 1.0
-  - value: .nan
 independent_variables:
 - header:
     name: Selection
@@ -156,21 +150,20 @@ independent_variables:
   - value: All
   - value: Trigger
   - value: PV
-  - value: 4-filter
-  - value: Medium prompt lep.
-  - value: P.lep. overlap
+  - value: Filter
+  - value: Medium prompt lepton
+  - value: Prompt lepton overlap
   - value: DV
   - value: Fiducial
   - value: 2-track DV
-  - value: OS DV
-  - value: Lep. type DV
+  - value: Opposite sign DV
+  - value: Lepton type DV
   - value: Cosmic veto
   - value: Lepton pt
-  - value: Mat. veto
-  - value: Lep. qual. DV
-  - value: Trig. match
-  - value: m_{lll}
+  - value: Material veto
+  - value: Lepton quality in DV
+  - value: Trigger match
+  - value: m_{\mathrm{lll}}
   - value: B-hadron veto
   - value: Z mass veto
-  - value: m_{HNL}
-  - value: Charge split (Dirac only)
+  - value: m_{\mathrm{HNL}}
